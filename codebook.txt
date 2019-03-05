@@ -1,0 +1,86 @@
+data_set_3.txt codebook
+
+The data set has 180 observations from 81 variable.s
+The variables are:
+
+"activity" - describes the activity, whether the subject is walking, laying, sitting or standing.
+"subject" - contains the subject's ID.
+"TimeDomain_BodyAccelerometer_Mean_X" - contains the mean of the body accelerometer
+"TimeDomain_BodyAccelerometer_Mean_Y" - contains the mean of the body accelerometer
+"TimeDomain_BodyAccelerometer_Mean_Z" - contains the mean of the body accelerometer
+"TimeDomain_BodyAccelerometer_StandardDeviation_X" - contains the sd of the body accelerometer
+"TimeDomain_BodyAccelerometer_StandardDeviation_Y" - contains the sd of the body accelerometer
+"TimeDomain_BodyAccelerometer_StandardDeviation_Z" - contains the sd of the body accelerometer
+"TimeDomain_GravityAccelerometer_Mean_X" - contains the mean of the gravity accelerometer
+"TimeDomain_GravityAccelerometer_Mean_Y" - contains the mean of the gravity accelerometer
+"TimeDomain_GravityAccelerometer_Mean_Z" - contains the mean of the gravity accelerometer
+"TimeDomain_GravityAccelerometer_StandardDeviation_X" - contains the sd of the gravity accelerometer
+"TimeDomain_GravityAccelerometer_StandardDeviation_Y" - contains the sd of the gravity accelerometer
+"TimeDomain_GravityAccelerometer_StandardDeviation_Z" - contains the sd of the gravity accelerometer
+"TimeDomain_BodyAccelerometerJerk_Mean_X" - contains the mean of the body accelerometer jerk
+"TimeDomain_BodyAccelerometerJerk_Mean_Y" - contains the mean of the body accelerometer jerk
+"TimeDomain_BodyAccelerometerJerk_Mean_Z" - contains the mean of the body accelerometer jerk
+"TimeDomain_BodyAccelerometerJerk_StandardDeviation_X" - contains the sd of the body accelerometer jerk
+"TimeDomain_BodyAccelerometerJerk_StandardDeviation_Y" - contains the sd of the body accelerometer jerk
+"TimeDomain_BodyAccelerometerJerk_StandardDeviation_Z" - contains the sd of the body accelerometer jerk
+"TimeDomain_BodyGyroscope_Mean_X" - contains the mean of the body gyroscope
+"TimeDomain_BodyGyroscope_Mean_Y" - contains the mean of the body gyroscope
+"TimeDomain_BodyGyroscope_Mean_Z" - contains the mean of the body gyroscope
+"TimeDomain_BodyGyroscope_StandardDeviation_X" - contains the sd of the body gyroscope
+"TimeDomain_BodyGyroscope_StandardDeviation_Y" - contains the sd of the body gyroscope
+"TimeDomain_BodyGyroscope_StandardDeviation_Z" - contains the sd of the body gyroscope
+"TimeDomain_BodyGyroscopeJerk_Mean_X" - contains the mean of the body gyroscope jerk
+"TimeDomain_BodyGyroscopeJerk_Mean_Y" - contains the mean of the body gyroscope jerk
+"TimeDomain_BodyGyroscopeJerk_Mean_Z" - contains the mean of the body gyroscope jerk
+"TimeDomain_BodyGyroscopeJerk_StandardDeviation_X" - contains the sd of the body gyroscope jerk
+"TimeDomain_BodyGyroscopeJerk_StandardDeviation_Y" - contains the sd of the body gyroscope jerk
+"TimeDomain_BodyGyroscopeJerk_StandardDeviation_Z" - contains the sd of the body gyroscope jerk
+"TimeDomain_BodyAccelerometerMagnitude_mean" - contains the mean of the body accelerometer's magnitude
+"TimeDomain_BodyAccelerometerMagnitude_std" - contains the sd of the body accelerometer's magnitude
+"TimeDomain_GravityAccelerometerMagnitude_mean" - contains the mean of the gravity accelerometer's magnitude
+"TimeDomain_GravityAccelerometerMagnitude_std" - contains the sd of the gravity accelerometer's magnitude
+"TimeDomain_BodyAccelerometerJerkMagnitude_mean" - contains the mean of the body accelerometer jerk's magnitude
+"TimeDomain_BodyAccelerometerJerkMagnitude_std" - contains the sd of the body accelerometer jerk's magnitude
+"TimeDomain_BodyGyroscopeMagnitude_mean" - contains the mean of the body gyroscope's magnitude
+"TimeDomain_BodyGyroscopeMagnitude_std" - contains the sd of the body gyroscope's magnitude
+"TimeDomain_BodyGyroscopeJerkMagnitude_mean" - contains the mean of the body gyroscope jerk's magnitude
+"TimeDomain_BodyGyroscopeJerkMagnitude_std"  - contains the sd of the body gyroscope jerk's magnitude
+"FrequencyDomain_BodyAccelerometer_Mean_X" - contains the mean of the frequency for the body accelerometer
+"FrequencyDomain_BodyAccelerometer_Mean_Y"  - contains the mean of the frequency for the body accelerometer
+"FrequencyDomain_BodyAccelerometer_Mean_Z" - contains the mean of the frequency for the body accelerometer 
+"FrequencyDomain_BodyAccelerometer_StandardDeviation_X"  - contains the sd of the frequency for the body accelerometer
+"FrequencyDomain_BodyAccelerometer_StandardDeviation_Y"  - contains the sd of the frequency for the body accelerometer
+"FrequencyDomain_BodyAccelerometer_StandardDeviation_Z"  - contains the sd of the frequency for the body accelerometer
+"FrequencyDomain_BodyAccelerometer_meanFreq_X"  - contains the mean of the frequency for the body accelerometer
+"FrequencyDomain_BodyAccelerometer_meanFreq_Y"  - contains the mean of the frequency for the body accelerometer
+"FrequencyDomain_BodyAccelerometer_meanFreq_Z"  - contains the mean of the frequency for the body accelerometer
+"FrequencyDomain_BodyAccelerometerJerk_Mean_X"  - contains the mean of the frequency for the body accelerometer jerk
+"FrequencyDomain_BodyAccelerometerJerk_Mean_Y"  - contains the mean of the frequency for the body accelerometer jerk
+"FrequencyDomain_BodyAccelerometerJerk_Mean_Z"  - contains the mean of the frequency for the body accelerometer jerk
+"FrequencyDomain_BodyAccelerometerJerk_StandardDeviation_X"  - contains the sd of the frequency for the body accelerometer jerk 
+"FrequencyDomain_BodyAccelerometerJerk_StandardDeviation_Y"  - contains the sd of the frequency for the body accelerometer jerk 
+"FrequencyDomain_BodyAccelerometerJerk_StandardDeviation_Z"  - contains the sd of the frequency for the body accelerometer jerk 
+"FrequencyDomain_BodyAccelerometerJerk_meanFreq_X"  - contains the mean of the frequency for the body accelerometer jerk 
+"FrequencyDomain_BodyAccelerometerJerk_meanFreq_Y"  - contains the mean of the frequency for the body accelerometer jerk 
+"FrequencyDomain_BodyAccelerometerJerk_meanFreq_Z"  - contains the mean of the frequency for the body accelerometer jerk 
+"FrequencyDomain_BodyGyroscope_Mean_X"  - contains the mean of the frequency for the body gyroscope
+"FrequencyDomain_BodyGyroscope_Mean_Y"  - contains the mean of the frequency for the body gyroscope
+"FrequencyDomain_BodyGyroscope_Mean_Z"  - contains the mean of the frequency for the body gyroscope
+"FrequencyDomain_BodyGyroscope_StandardDeviation_X" - contains the sd of the frequency for the body gyroscope
+"FrequencyDomain_BodyGyroscope_StandardDeviation_Y" - contains the sd of the frequency for the body gyroscope
+"FrequencyDomain_BodyGyroscope_StandardDeviation_Z" - contains the sd of the frequency for the body gyroscope
+"FrequencyDomain_BodyGyroscope_meanFreq_X" - contains the mean of the frequency for the body gyroscope 
+"FrequencyDomain_BodyGyroscope_meanFreq_Y" - contains the mean of the frequency for the body gyroscope
+"FrequencyDomain_BodyGyroscope_meanFreq_Z" - contains the mean of the frequency for the body gyroscope
+"FrequencyDomain_BodyAccelerometerMagnitude_mean" - contains the mean of the frequency for the body accelerometer's magnitude
+"FrequencyDomain_BodyAccelerometerMagnitude_std" - contains the sd of the frequency for the body accelerometer's magnitude
+"FrequencyDomain_BodyAccelerometerMagnitude_meanFreq" - contains the mean of the frequency for the body accelerometer's magnitude 
+"FrequencyDomain_BodyBodyAccelerometerJerkMagnitude_mean" - contains the mean of the frequency for the body accelerometer jerk's magnitude
+"FrequencyDomain_BodyBodyAccelerometerJerkMagnitude_std" - contains the sd of the frequency for the body accelerometer jerk's magnitude
+"FrequencyDomain_BodyBodyAccelerometerJerkMagnitude_meanFreq" " - contains the mean of the frequency for the body accelerometer jerk's magnitude
+"FrequencyDomain_BodyBodyGyroscopeMagnitude_mean" - contains the mean of the frequency for the body gyroscope's magnitude
+"FrequencyDomain_BodyBodyGyroscopeMagnitude_std"  - contains the sd of the frequency for the body gyroscope's magnitude
+"FrequencyDomain_BodyBodyGyroscopeMagnitude_meanFreq"  - contains the mean of the frequency for the body gyroscope's magnitude 
+"FrequencyDomain_BodyBodyGyroscopeJerkMagnitude_mean" - contains the mean of the frequency for the body gyroscope jerk's magnitude 
+"FrequencyDomain_BodyBodyGyroscopeJerkMagnitude_std"  - contains the sd of the frequency for the body gyroscope jerk's magnitude
+"FrequencyDomain_BodyBodyGyroscopeJerkMagnitude_meanFreq" - contains the mean of the frequency for the body gyroscope jerk's magnitude
